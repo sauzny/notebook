@@ -14,7 +14,7 @@
   * DBUtils
     * [ResultSetHandler实现类介绍.md](java/DBUtils/ResultSetHandler实现类介绍.md)
   * finagle
-    * [finagle.md](java/finagle.md)
+    * [finagle.md](java/finagle/finagle.md)
   * gradle
     * [build.gradle中的task操作文件.md](java/gradle/build.gradle中的task操作文件.md)
     * [build.gradle中的文件与文件集合.md](java/gradle/build.gradle中的文件与文件集合.md)
