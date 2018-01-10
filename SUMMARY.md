@@ -2,4 +2,8 @@
 
 * [README](README.md)
 * [java](java.md)
-    [finagle](java/finagle/finagle.md)
+  * finagle
+    * [finagle.md](java/finagle/finagle.md)
+
+
+
